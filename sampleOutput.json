@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Sophia Saifi",
+        "title": "Blast in mosque in Pakistan kills at least 25 people, with scores injured - CNN",
+        "description": "A blast inside a mosque in Pakistan's northwestern city of Peshawar on Monday has left at least 25 people dead and 120 more injured, according to according to Shafiullah Khan, the deputy commissioner in Peshawar.",
+        "url": "https://www.cnn.com/2023/01/30/asia/peshawar-pakistan-mosque-blast-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130094830-01-peshawar-mosque-013023.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-01-30T10:27:00Z",
+        "content": "A powerful blast inside a mosque in Pakistans northwestern city of Peshawar has left at least 25 people dead and 120 more injured, according to Peshawar deputy commissioner Shafiullah Khan.\r\nThe mosq… [+221 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "Lisa Marie Presley Taking Opioids, Lost 40-50 Lbs. Weeks Before Death - TMZ",
+        "description": "Lisa Marie Presley was on an extreme weight loss regimen in the months leading up to her death, because she wanted to look her best to celebrate the \"Elvis\" movie during the various awards ceremonies ... family sources tell TMZ.",
+        "url": "https://www.tmz.com/2023/01/30/lisa-marie-presley-opioids-weight-loss-death-golden-globes/",
+        "urlToImage": "https://imagez.tmz.com/image/ec/16by9/2023/01/27/ec2559fd03b549f086c0618ab6dca6e6_xl.jpg",
+        "publishedAt": "2023-01-30T09:00:00Z",
+        "content": "Lisa Marie Presleywas on an extreme weight loss regimen in the months leading up to her death, because she wanted to look her best to celebrate the \"Elvis\" movie during the various awards ceremonies … [+1621 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": "George Russell, Sarah Provan, Akila Quinio, Fergus Ryan, Oliver Ralph, William Langley",
+        "title": "Live news: 888 chief quits as gambling group launches probe into VIP accounts - Financial Times",
+        "description": "",
+        "url": "https://www.ft.com/content/237864f5-f0ba-4e59-a2fa-83a312e4522e",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fabccaf0b-26b1-4aa6-ac27-9f8f4d3cf53d.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2023-01-30T08:37:32Z",
+        "content": "Can we afford to be more optimistic about the future? The next seven days are beginning more positively for global geopolitics with a visit by Nato secretary-general Jens Stoltenberg to South Korea a… [+3269 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jihye Lee",
+        "title": "Most Adani shares continue bloodbath as Asia's richest man loses $28 billion in a month - CNBC",
+        "description": "Shares of most of Adani Group companies continued to see sharp losses for a third consecutive trading session.",
+        "url": "https://www.cnbc.com/2023/01/30/adani-shares-hindenburg-report.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185658-1675065697458-gettyimages-1244891771-AFP_32NX36Y.jpeg?v=1675067597&w=1920&h=1080",
+        "publishedAt": "2023-01-30T08:33:17Z",
+        "content": "Gautam Adani, chairperson of Indian conglomerate Adani Group, at the World Congress of Accountants in Mumbai on Nov. 19, 2022. Founder Gautam Adani, the richest man in Asia and once second only to El… [+2458 chars]"
+      }
+    ]
+  }
